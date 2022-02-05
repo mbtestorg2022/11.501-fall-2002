@@ -23,12 +23,57 @@ Procedures and Evaluation
 
 Seminar sessions will involve intensive discussions of assigned readings, guest lectures, and selected Web sites. Final grades will be based on four short commentaries on course readings and guest lectures (40%); two brief class presentations contrasting and comparing theories and methods within two of the four major topic areas (30%); two reviews of Web sites that are considered representative of current practice in two of the four major topics (20%); and an assessment of student's contributions to class-based discussion (10%).
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Four Short Commentaries on Course Readings and Guest Lectures | 40% |
-| Two Brief Class Presentations Contrasting and Comparing Theories and Methods within Two of the Four Major Topic Areas | 30% |
-| Two Reviews of Web sites that are Considered Representative of Current Practice in Two of the Four Major Topics | 20% |
-| An Assessment of Student's Contributions to Class-based Discussion | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four Short Commentaries on Course Readings and Guest Lectures
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Brief Class Presentations Contrasting and Comparing Theories and Methods within Two of the Four Major Topic Areas
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Reviews of Web sites that are Considered Representative of Current Practice in Two of the Four Major Topics
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+An Assessment of Student's Contributions to Class-based Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Outline
 -------------
