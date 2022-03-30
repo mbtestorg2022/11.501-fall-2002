@@ -6,6 +6,7 @@ description: 'Guest lecture presentation by Dr. Robert Barr, University of Manch
   spatial data infrastructures, and conclusions. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-501-introduction-to-technology-and-cities-fall-2002/365d6d95e630f788f5d4f534ab2e0d95_barrlec02dec06.pdf
 file_type: application/pdf
+parent_uid: 7f053c97-86fc-4f7a-3496-f216f44e89fb
 resourcetype: Document
 title: 'E-government and GIS: The British Experience'
 uid: 365d6d95-e630-f788-f5d4-f534ab2e0d95
